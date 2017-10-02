@@ -1,0 +1,2 @@
+{"username":"nacer","firstname":"mohamed naceur","lastname":"el mabrouk","email":"mednaceur.elmabrouk@gmail.com","tel":"93 xxx xxx","password":"123456","createdAt":{"$$date":1506765529662},"updatedAt":{"$$date":1506831193515},"__ctr":1,"_id":"MeFhdkckW0LKZYYZ","role":"delege","id":null}
+{"$$indexCreated":{"fieldName":"__ctr","unique":true,"sparse":false}}
